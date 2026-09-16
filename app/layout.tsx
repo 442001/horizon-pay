@@ -3,9 +3,9 @@ import type { Metadata, Viewport } from 'next'
 import './globals.css'
 
 export const metadata: Metadata = {
-  title: 'Horizon | Pay & Select on Solana',
+  title: 'Horizon | Pay & Select on Solana (Demo)',
   description:
-    'Horizon Pay merchant POS and Horizon Select curated DApp hub. A premium Web3 payments and discovery ecosystem built on Solana.',
+    'Interactive prototype of Horizon Pay merchant POS and Horizon Select curated DApp hub. Runs in Demo Mode — no real funds are moved.',
   generator: 'v0.app',
   icons: {
     icon: [
